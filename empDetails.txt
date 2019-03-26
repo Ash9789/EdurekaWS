@@ -1,4 +1,0 @@
-desk location: # BLR/DIV/B5/5F/HD-004
-employee id: 149281
-employee name:Aishwarya M
-new project code: 
